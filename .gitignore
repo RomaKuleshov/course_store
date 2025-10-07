@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+venv/
+*.log
+db.sqlite3
+media/
+staticfiles/
+static/
+.idea/
+.DS_Store
+Thumbs.db
